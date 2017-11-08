@@ -1,2 +1,5 @@
-# dryselcore
-“Automate the (Test) Automation” - Built on the principle of "DRY - Don't Repeat Yourself", DrySelCore, automates the Selenium Script Generation by abstracting out repetitions in the UI test automation. That means your test developers write tests with an easy to follow declarative design pattern, without ever worrying about "Selenium".
+# drysel
+“Automate the (Test) Automation”. “DrySel” is a family of test automation frameworks and tools, developed based on the fundamental software engineering principle “Don’t Repeat Yourself”. It aims to eleminate writing "Selenium/WebDriver" specific code, or even further, it aims to eleminate writing any "programming" code from UI Test Automation. 
+
+## dryselcore
+As name suggests "DrySelCore" is the core framework of "DrySel". "DrySelCore", automates the Selenium Code Generation by abstracting out repetitions in the UI test automation.
